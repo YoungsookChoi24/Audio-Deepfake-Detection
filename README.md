@@ -1,6 +1,7 @@
-**Audio Deepfake Detection**
+# Audio Deepfake Detection
 
 **Conference Papers**
+* Wave-Spectrogram Cross-Modal Aggregation for Audio Deepfake Detection [link](https://ieeexplore.ieee.org/document/10890563?denied=)
 * Fooling the Forgers: A Multi-Stage Framework for Audio Deepfake Detection [link](https://ieeexplore.ieee.org/document/10888175)
 * Automatic speaker verification spoofing and deepfake detection using wav2vec 2.0 and data augmentation [link](https://arxiv.org/abs/2202.12233)
 * Generalizable Audio Deepfake Detection via Latent Space Refinement and Augmentation [link](https://arxiv.org/abs/2501.14240)
