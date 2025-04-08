@@ -3,8 +3,7 @@
 ### Conference Papers
 |Publication Date|Title|Paper|Venue|Code|
 |:---|:---|---|---|---|
-|2024/12/17|Phoneme-Level Feature Discrepancies: A Key to Detecting
-Sophisticated Speech Deepfakes|[link](https://arxiv.org/abs/2412.12619)|||
+|2024/12/17|Phoneme-Level Feature Discrepancies: A Key to Detecting Sophisticated Speech Deepfakes|[link](https://arxiv.org/abs/2412.12619)|||
 
 * From Voices to Beats: Enhancing Music Deepfake Detection by Identifying Forgeries in Background, published in ICASSP2025. [link](https://ieeexplore.ieee.org/document/10890293)
 * WaveSpect: A Hybrid Approach to Synthetic Audio Detection via Waveform and Spectrogram Analysis, published in ICASSP2025. [link](https://ieeexplore.ieee.org/document/10890188)
