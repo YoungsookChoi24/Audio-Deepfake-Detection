@@ -1,10 +1,6 @@
-## Results {.tabset}
-
-### Audio Deepfake Detection
-
 # Audio Deepfake Detection Literature
 
-* Conference Papers
+### Conference Papers
 
 |Publication Date|Title|Paper|Published|Code|
 |:---|:---|---|---|---|
@@ -18,27 +14,25 @@
 * Generalizable Audio Deepfake Detection via Latent Space Refinement and Augmentation [link](https://arxiv.org/abs/2501.14240)
 * Does Audio Deepfake Detection Generalize?  [link](https://arxiv.org/abs/2203.16263)
 
-* Survey
+### Survey
 * Audio Deepfake Detection: A Survey [link](https://arxiv.org/abs/2308.14970)
 * Robust Deepfake Detection by Addressing Generalization and Trustworthiness Challenges: A Short Survey [link](https://dl.acm.org/doi/abs/10.1145/3689090.3689386)
 
 
 
 # Audio Deepfake Detection Implementation
-* Datasets
+### Datasets
 * ASVspoof2019 [link](https://datashare.ed.ac.uk/handle/10283/3336)
 * ASVspoof2021 LA [link](https://zenodo.org/records/4837263#.YnDIinYzZhE)
 * ASVspoof2021 DF [link](https://zenodo.org/records/4835108#.YnDIb3YzZhE)
 * ASVspoof2021 dataset labels [link](https://www.asvspoof.org/index2021.html)
 * In-The-Wild, Nicolas M Muller, Pavel Czempin, Franziska Dieckmann, Adam Froghyar, and Konstantin Bottinger, “Does audio deepfake detection generalize?,” Interspeech, 2022.
 
-* Models
+### Models
 Wav2vec xlsr: https://github.com/facebookresearch/fairseq/blob/main/examples/wav2vec/README.md
 
 
-### Audio Signal Processing
 # Audio Signal Processing
 * Librosa (Python Library) tutorial: https://github.com/prodramp/publiccode/blob/master/machine_learning/python_audio_tutorial/
 * PyTorch (Audio library for PyTorch): https://github.com/prodramp/publiccode/blob/master/machine_learning/python_audio_tutorial/
 
-## {-}
