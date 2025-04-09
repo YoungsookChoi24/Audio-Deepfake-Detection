@@ -2,9 +2,11 @@
 
 ### Conference Papers
 
-|Publication Date|Title|Paper|Published|Code|
+|Publication Date|Title|Paper|Code|
 |:---|:---|---|---|---|
-|2024/12/17|Phoneme-Level Feature Discrepancies: A Key to Detecting Sophisticated Speech Deepfakes|[link](https://arxiv.org/abs/2412.12619)|||
+|2024/12/17|Phoneme-Level Feature Discrepancies: A Key to Detecting Sophisticated Speech Deepfakes|[link](https://arxiv.org/abs/2412.12619)||
+|2022/5/10|NaturalSpeech: End-to-End Text to Speech Synthesis
+with Human-Level Quality|[link](https://arxiv.org/abs/2205.04421)|[Samples](https://speechresearch.github.io/naturalspeech/)|
 
 * From Voices to Beats: Enhancing Music Deepfake Detection by Identifying Forgeries in Background, published in ICASSP2025. [link](https://ieeexplore.ieee.org/document/10890293)
 * WaveSpect: A Hybrid Approach to Synthetic Audio Detection via Waveform and Spectrogram Analysis, published in ICASSP2025. [link](https://ieeexplore.ieee.org/document/10890188)
@@ -27,6 +29,17 @@
 * ASVspoof2021 DF [link](https://zenodo.org/records/4835108#.YnDIb3YzZhE)
 * ASVspoof2021 dataset labels [link](https://www.asvspoof.org/index2021.html)
 * In-The-Wild, Nicolas M Muller, Pavel Czempin, Franziska Dieckmann, Adam Froghyar, and Konstantin Bottinger, “Does audio deepfake detection generalize?,” Interspeech, 2022.
+
+### Speech Synthesis
+* Synthesis Methods:
+    * Text-to-speech (TTS)
+    * Voice conversion (VC) 
+
+* Synthesis (an encoder-decoder framework):
+    * Encoders: convert input into embeddings
+    * Decoders: Mel spectrogram generator or vocoder 
+    * Conditional variational autoencoder
+
 
 ### Models
 Wav2vec xlsr: https://github.com/facebookresearch/fairseq/blob/main/examples/wav2vec/README.md
