@@ -3,7 +3,7 @@
 ### Conference Papers
 
 |Publication Date|Title|Paper|Code|
-|:---|:---|---|---|---|
+|:---|:---|---|---|
 |2024/12/17|Phoneme-Level Feature Discrepancies: A Key to Detecting Sophisticated Speech Deepfakes|[link](https://arxiv.org/abs/2412.12619)||
 |2022/5/10|NaturalSpeech: End-to-End Text to Speech Synthesis
 with Human-Level Quality|[link](https://arxiv.org/abs/2205.04421)|[Samples](https://speechresearch.github.io/naturalspeech/)|
