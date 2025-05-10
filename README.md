@@ -4,16 +4,18 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2025/5/7|Weakly-supervised Audio Temporal Forgery Localization via Progressive
+Audio-language Co-learning Network|[link](https://arxiv.org/pdf/2505.01880)|
+|2025/04/11|Robust Audio Deepfake Detection using Ensemble Confidence Calibration, published in ICASSP2025|[link](https://ieeexplore.ieee.org/document/10889972)|N/A [EOW Softmax](https://github.com/BIGKnight/Energy-Based-Open-World-Uncertainty-Modeling-for-Confidence-Calibration)[XLS-R baseline](https://github.com/facebookresearch/fairseq/tree/main/examples/wav2vec/xlsr)|
 |2024/12/17|Phoneme-Level Feature Discrepancies: A Key to Detecting Sophisticated Speech Deepfakes|[link](https://arxiv.org/abs/2412.12619)||
 |2022/5/10|NaturalSpeech: End-to-End Text to Speech Synthesis with Human-Level Quality|[link](https://arxiv.org/abs/2205.04421)|[Samples](https://speechresearch.github.io/naturalspeech/)|
-
-* From Voices to Beats: Enhancing Music Deepfake Detection by Identifying Forgeries in Background, published in ICASSP2025. [link](https://ieeexplore.ieee.org/document/10890293)
-* WaveSpect: A Hybrid Approach to Synthetic Audio Detection via Waveform and Spectrogram Analysis, published in ICASSP2025. [link](https://ieeexplore.ieee.org/document/10890188)
-* Wave-Spectrogram Cross-Modal Aggregation for Audio Deepfake Detection, published in ICASSP2025. [link](https://ieeexplore.ieee.org/document/10890563?denied=)
-* Fooling the Forgers: A Multi-Stage Framework for Audio Deepfake Detection, , published in ICASSP2025. [link](https://ieeexplore.ieee.org/document/10888175)
-* Automatic speaker verification spoofing and deepfake detection using wav2vec 2.0 and data augmentation [link](https://arxiv.org/abs/2202.12233)
-* Generalizable Audio Deepfake Detection via Latent Space Refinement and Augmentation [link](https://arxiv.org/abs/2501.14240)
-* Does Audio Deepfake Detection Generalize?  [link](https://arxiv.org/abs/2203.16263)
+|2025/04/11|From Voices to Beats: Enhancing Music Deepfake Detection by Identifying Forgeries in Background, published in ICASSP2025|[link](https://ieeexplore.ieee.org/document/10890293)||
+|2025/04/11|WaveSpect: A Hybrid Approach to Synthetic Audio Detection via Waveform and Spectrogram Analysis, published in ICASSP2025|[link](https://ieeexplore.ieee.org/document/10890188)||
+|2025/04/11|Wave-Spectrogram Cross-Modal Aggregation for Audio Deepfake Detection, published in ICASSP2025|[link](https://ieeexplore.ieee.org/document/10890563?denied=)||
+|2025/04/11|Fooling the Forgers: A Multi-Stage Framework for Audio Deepfake Detection, , published in ICASSP2025|[link](https://ieeexplore.ieee.org/document/10888175)||
+|2022/02/28|Automatic speaker verification spoofing and deepfake detection using wav2vec 2.0 and data augmentation|[link](https://arxiv.org/abs/2202.12233)||
+|2025/01/24|Generalizable Audio Deepfake Detection via Latent Space Refinement and Augmentation|[link](https://arxiv.org/abs/2501.14240)||
+|2024/08/27, v4|Does Audio Deepfake Detection Generalize?|[link](https://arxiv.org/abs/2203.16263)||
 
 ### Survey
 * Audio Deepfake Detection: A Survey [link](https://arxiv.org/abs/2308.14970)
