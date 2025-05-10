@@ -4,9 +4,8 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
-|2025/5/7|Weakly-supervised Audio Temporal Forgery Localization via Progressive
-Audio-language Co-learning Network|[link](https://arxiv.org/pdf/2505.01880)|
-|2025/04/11|Robust Audio Deepfake Detection using Ensemble Confidence Calibration, published in ICASSP2025|[link](https://ieeexplore.ieee.org/document/10889972)|N/A [EOW Softmax](https://github.com/BIGKnight/Energy-Based-Open-World-Uncertainty-Modeling-for-Confidence-Calibration)[XLS-R baseline](https://github.com/facebookresearch/fairseq/tree/main/examples/wav2vec/xlsr)|
+|2025/5/7|Weakly-supervised Audio Temporal Forgery Localization via Progressive Audio-language Co-learning Network|[link](https://arxiv.org/pdf/2505.01880)|
+|2025/04/11|Robust Audio Deepfake Detection using Ensemble Confidence Calibration, published in ICASSP2025|[link](https://ieeexplore.ieee.org/document/10889972)|N/A|
 |2024/12/17|Phoneme-Level Feature Discrepancies: A Key to Detecting Sophisticated Speech Deepfakes|[link](https://arxiv.org/abs/2412.12619)||
 |2022/5/10|NaturalSpeech: End-to-End Text to Speech Synthesis with Human-Level Quality|[link](https://arxiv.org/abs/2205.04421)|[Samples](https://speechresearch.github.io/naturalspeech/)|
 |2025/04/11|From Voices to Beats: Enhancing Music Deepfake Detection by Identifying Forgeries in Background, published in ICASSP2025|[link](https://ieeexplore.ieee.org/document/10890293)||
