@@ -4,7 +4,9 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
-|2024/11|Multilevel semantic and adaptive actionness learning for weakly supervised temporal action localization, published in Neural Networks|[link](https://www.sciencedirect.com/science/article/abs/pii/S0893608024008347)
+|2024/7/3|AUDIOTIME: A TEMPORALLY-ALIGNED AUDIO-TEXT BENCHMARK DATASET|[link](https://arxiv.org/pdf/2407.02857)||
+|2024/7/23/|Coarse-to-Fine Proposal Refinement Framework for Audio Temporal Forgery Detection and Localization|[link](https://arxiv.org/pdf/2407.16554)||
+|2024/11|Multilevel semantic and adaptive actionness learning for weakly supervised temporal action localization, published in Neural Networks|[link](https://www.sciencedirect.com/science/article/abs/pii/S0893608024008347)|[Available](https://github.com/lizhilin-ustc/SAL)|
 |2025/5/7|Weakly-supervised Audio Temporal Forgery Localization via Progressive Audio-language Co-learning Network|[link](https://arxiv.org/pdf/2505.01880)|
 |2025/4/11|Robust Audio Deepfake Detection using Ensemble Confidence Calibration, published in ICASSP2025|[link](https://ieeexplore.ieee.org/document/10889972)|N/A|
 |2024/12/17|Phoneme-Level Feature Discrepancies: A Key to Detecting Sophisticated Speech Deepfakes|[link](https://arxiv.org/abs/2412.12619)||
