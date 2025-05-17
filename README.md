@@ -4,9 +4,11 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
-|2024/7/3|AUDIOTIME: A TEMPORALLY-ALIGNED AUDIO-TEXT BENCHMARK DATASET|[link](https://arxiv.org/pdf/2407.02857)||
-|2024/7/23/|Coarse-to-Fine Proposal Refinement Framework for Audio Temporal Forgery Detection and Localization|[link](https://arxiv.org/pdf/2407.16554)||
-|2024/11|Multilevel semantic and adaptive actionness learning for weakly supervised temporal action localization, published in Neural Networks|[link](https://www.sciencedirect.com/science/article/abs/pii/S0893608024008347)|[Available](https://github.com/lizhilin-ustc/SAL)|
+|2024|Prompt-Enhanced Multiple Instance Learning for Weakly Supervised Video Anomaly Detection|[link](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Prompt-Enhanced_Multiple_Instance_Learning_for_Weakly_Supervised_Video_Anomaly_Detection_CVPR_2024_paper.pdf)|[Not released yet](https://github.com/Junxi-Chen/PE-MIL)|
+|2023/5|Proposal-Based Multiple Instance Learning for Weakly-Supervised Temporal Action Localization|[link](https://arxiv.org/abs/2305.17861)|[code](https://github.com/RenHuan1999/CVPR2023_P-MIL)|
+|2024/7/3|Audiotime: A Temporally-aligned Audio-text Benchmark Dataset|[link](https://arxiv.org/pdf/2407.02857)||
+|2024/7/23|Coarse-to-Fine Proposal Refinement Framework for Audio Temporal Forgery Detection and Localization|[link](https://arxiv.org/pdf/2407.16554)||
+|2024/11|Multilevel semantic and adaptive actionness learning for weakly supervised temporal action localization, published in Neural Networks|[link](https://www.sciencedirect.com/science/article/abs/pii/S0893608024008347)|[SAL](https://github.com/lizhilin-ustc/SAL)|
 |2025/5/7|Weakly-supervised Audio Temporal Forgery Localization via Progressive Audio-language Co-learning Network|[link](https://arxiv.org/pdf/2505.01880)|
 |2025/4/11|Robust Audio Deepfake Detection using Ensemble Confidence Calibration, published in ICASSP2025|[link](https://ieeexplore.ieee.org/document/10889972)|N/A|
 |2024/12/17|Phoneme-Level Feature Discrepancies: A Key to Detecting Sophisticated Speech Deepfakes|[link](https://arxiv.org/abs/2412.12619)||
@@ -26,36 +28,37 @@
 
 
 # Audio Deepfake Detection Implementation
-### Datasets
+## Datasets
 
-## Spoofing and Speaker Verification
+### Rule-based replacement manipulation
+* LAV-DF, Zhixi Cai, Kalin Stefanov, Abhinav Dhall, and Munawar Hayat. Do you really mean that? content driven audiovisual deepfake dataset and multimodal method for temporal forgery localization. In Proceedings of the International Conference on Digital Image Computing: Techniques and Applications, pages 1–10, 2022.
+* HAD, Jiangyan Yi, Ye Bai, Jianhua Tao, Haoxin Ma, Zhengkun Tian, Chenglong Wang, Tao Wang, and Ruibo Fu. Halftruth: A partially fake audio detection dataset. In Proceedings of the Interspeech, pages 1654–1658, 2021.
+
+### LLM-driven manipulation
+* AV-Deepfake-1M, Zhixi Cai, Shreya Ghosh, Aman Pankaj Adatia, Munawar Hayat, Abhinav Dhall, Tom Gedeon, and kalin Stefanov. AV-Deepfake1M: A large-scale llm-driven audio-visual deepfake dataset. In Proceedings of the 32nd ACM International Conference on Multimedia, pages 7414–7423, 2024
+
+
+### Spoofing and Speaker Verification
 * ASVspoof2019 [link](https://datashare.ed.ac.uk/handle/10283/3336)
 * ASVspoof2021 LA [link](https://zenodo.org/records/4837263#.YnDIinYzZhE)
 * ASVspoof2021 DF [link](https://zenodo.org/records/4835108#.YnDIb3YzZhE)
 * ASVspoof2021 dataset labels [link](https://www.asvspoof.org/index2021.html)
 * CVoice,  X. Li, K. Li, Y. Zheng, C. Yan, X. Ji, and W. Xu, “Safeear: Content privacy-preserving audio deepfake detection,” arXiv:2409.09272, 2024.
 
-## Multimodal Deepfake Detection
+### Multimodal Deepfake Detection
 * MLAAD, N. M. Müller, P. Kawa, W. H. Choong, E. Casanova, E. Gölge, T. Müller, P. Syga, P. Sperl, and K. Böttinger, “Mlaad: The multi-language audio anti-spoofing dataset,” arXiv:2401.09512, 2024
 
-## Rule-based replacement manipulation
-* LAV-DF, Zhixi Cai, Kalin Stefanov, Abhinav Dhall, and Munawar Hayat. Do you really mean that? content driven audiovisual deepfake dataset and multimodal method for temporal forgery localization. In Proceedings of the International Conference on Digital Image Computing: Techniques and Applications, pages 1–10, 2022.
-* HAD, Jiangyan Yi, Ye Bai, Jianhua Tao, Haoxin Ma, Zhengkun Tian, Chenglong Wang, Tao Wang, and Ruibo Fu. Halftruth: A partially fake audio detection dataset. In Proceedings of the Interspeech, pages 1654–1658, 2021.
-
-## LLM-driven manipulation
-* AV-Deepfake-1M, Zhixi Cai, Shreya Ghosh, Aman Pankaj Adatia, Munawar Hayat, Abhinav Dhall, Tom Gedeon, and kalin Stefanov. AV-Deepfake1M: A large-scale llm-driven audio-visual deepfake dataset. In Proceedings of the 32nd ACM International Conference on Multimedia, pages 7414–7423, 2024
-
-## Environmental Sound Detection
+### Environmental Sound Detection
 * In-The-Wild, Nicolas M Muller, Pavel Czempin, Franziska Dieckmann, Adam Froghyar, and Konstantin Bottinger, “Does audio deepfake detection generalize?,” Interspeech, 2022.
 
-## Pure Audio Deepfake Detection
+### Pure Audio Deepfake Detection
 * WaveFake,  J. Frank and L. Schönherr, “Wavefake: A data set to facilitate audio deepfake detection,” arXiv preprint arXiv:2111.02813, 2021.
 * FakeOrReal, R. Reimao and V. Tzerpos, “For: A dataset for synthetic speech detection,” in 2019 International Conference on Speech Technology and Human-Computer Dialogue (SpeD). IEEE, 2019, pp. 1–10.
 * FakeAVCelebV2, H. Khalid, S. Tariq, M. Kim, and S. S. Woo, “Fakeavceleb: A novel audio-video multimodal deepfake dataset,” arXiv:2108.05080, 2021.
 * ADD series, J. Yi et al., “Add 2022: The first audio deepfake detection challenge,” in ICASSP, 2022. and H. Zhang et al., “Add 2023: Audio deepfake detection challenge,” in ICASSP, 2023.
 
 
-### Speech Synthesis
+## Speech Synthesis
 * Synthesis Methods:
     * Text-to-speech (TTS)
     * Voice conversion (VC) 
@@ -66,7 +69,7 @@
     * Conditional variational autoencoder
 
 
-### Models
+## Models
 Wav2vec xlsr: https://github.com/facebookresearch/fairseq/blob/main/examples/wav2vec/README.md
 
 
