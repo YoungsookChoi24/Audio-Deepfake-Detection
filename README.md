@@ -4,6 +4,7 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2024/7|AV-Deepfake1M: A Large-Scale LLM-Driven Audio-Visual Deepfake Dataset|[link](https://arxiv.org/pdf/2311.15308)|[Dataset](https://github.com/ControlNet/AV-Deepfake1M)|
 |2021|A Comparative Study on Recent Neural Spoofing Countermeasures for Synthetic Speech Detection|[link](https://www.isca-archive.org/interspeech_2021/wang21fa_interspeech.pdf)|[code](https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts)|
 |2024|Prompt-Enhanced Multiple Instance Learning for Weakly Supervised Video Anomaly Detection|[link](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Prompt-Enhanced_Multiple_Instance_Learning_for_Weakly_Supervised_Video_Anomaly_Detection_CVPR_2024_paper.pdf)|[N/A](https://github.com/Junxi-Chen/PE-MIL)|
 |2023/5|Proposal-Based Multiple Instance Learning for Weakly-Supervised Temporal Action Localization|[link](https://arxiv.org/abs/2305.17861)|[code](https://github.com/RenHuan1999/CVPR2023_P-MIL)|
