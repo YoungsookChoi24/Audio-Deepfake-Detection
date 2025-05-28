@@ -4,6 +4,7 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2024/4|Integrating frame-level boundary detection and deepfake detection for locating manipulated regions in partially spoofed audio forgery attacks|[link](https://www.sciencedirect.com/science/article/pii/S088523082300116X)||
 |2023/8|UMMAFormer: A Universal Multimodal-adaptive Transformer Framework for Temporal Forgery Localization|[link](https://arxiv.org/pdf/2308.14395)|[code](https://github.com/ymhzyj/UMMAFormer)|
 |2023|The PartialSpoof Database and Countermeasures for the Detection of Short Fake Speech Segments Embedded in an Utterance, published in TASLPRO2023|[link](https://arxiv.org/pdf/2204.05177)||
 |2023/5/4|Do You Really Mean That? Content Driven Audio-Visual Deepfake Dataset and Multimodal Method for Temporal Forgery Localization|[link](https://arxiv.org/pdf/2204.06228)|[Dataset](https://github.com/ControlNet/LAV-DF)|
