@@ -4,6 +4,7 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2022/8|ActionFormer: Localizing Moments of Actions with Transformers|[link](https://arxiv.org/pdf/2202.07925)|[code](https://github.com/happyharrycn/actionformer_release)|
 |2024/4|Integrating frame-level boundary detection and deepfake detection for locating manipulated regions in partially spoofed audio forgery attacks|[link](https://www.sciencedirect.com/science/article/pii/S088523082300116X)||
 |2023/8|UMMAFormer: A Universal Multimodal-adaptive Transformer Framework for Temporal Forgery Localization|[link](https://arxiv.org/pdf/2308.14395)|[code](https://github.com/ymhzyj/UMMAFormer)|
 |2023|The PartialSpoof Database and Countermeasures for the Detection of Short Fake Speech Segments Embedded in an Utterance, published in TASLPRO2023|[link](https://arxiv.org/pdf/2204.05177)||
@@ -27,7 +28,7 @@
 |2025/1/24|Generalizable Audio Deepfake Detection via Latent Space Refinement and Augmentation|[link](https://arxiv.org/abs/2501.14240)||
 |2024/08/27, v4|Does Audio Deepfake Detection Generalize?|[link](https://arxiv.org/abs/2203.16263)||
 
-### Survey
+### Surveys
 * 2025/8 A comprehensive survey with critical analysis for deepfake speech detection [link](https://www.sciencedirect.com/science/article/pii/S1574013725000334?casa_token=pX1nwj9YnMwAAAAA:0zt4Tpc2VDtldrhW1iKGivl6xPMatMqWZ27VfvmlgwliDIqe3F2GcirXECbE1-dR9fyUJKnr)
 * 2024/12 From Audio Deepfake Detection to AI-Generated Music Detection – A Pathway and Overview [link](https://arxiv.org/pdf/2412.00571)
 * 2024/10 Robust Deepfake Detection by Addressing Generalization and Trustworthiness Challenges: A Short Survey [link](https://dl.acm.org/doi/abs/10.1145/3689090.3689386)
