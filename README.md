@@ -33,7 +33,7 @@
 * 2024/12 From Audio Deepfake Detection to AI-Generated Music Detection – A Pathway and Overview [link](https://arxiv.org/pdf/2412.00571)
 * 2024/10 Robust Deepfake Detection by Addressing Generalization and Trustworthiness Challenges: A Short Survey [link](https://dl.acm.org/doi/abs/10.1145/3689090.3689386)
 * 2023/8 Audio Deepfake Detection: A Survey [link](https://arxiv.org/abs/2308.14970)
-
+* 2021/7 A Survey on Neural Speech Synthesis [link](https://arxiv.org/abs/2106.15561)
 
 # Audio Deepfake Detection Implementation
 ## Datasets
