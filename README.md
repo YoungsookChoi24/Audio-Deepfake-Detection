@@ -70,22 +70,16 @@
 |Wav2vec XLS-R - multilingual speech representation model|Input: raw speech audio -> Encoder -> Output: a sequence of contextualized feature embeddings|[GitHub](https://github.com/facebookresearch/fairseq/blob/main/examples/wav2vec/README.md)|
 
 
-# Speech Synthesis (TTS and VC)
+# Speech Synthesis 
+* Methods: Text-to-Speech (TTS) and Voice conversion (VC)
 
-## Synthesis Methods:
+## Papers
 ### Text-to-speech (TTS)
 ### Voice conversion (VC) 
 
-### Surveys
+## Surveys
 * 2021/7 A Survey on Neural Speech Synthesis [link](https://arxiv.org/abs/2106.15561)
 * 2020/11 An Overview of Voice Conversion and its Challenges: From Statistical Modeling to Deep Learning [link](https://arxiv.org/abs/2008.03648)
-
-
-### Synthesis (an encoder-decoder framework):
-* Encoders: convert input into embeddings
-* Decoders: Mel spectrogram generator or vocoder 
-* Conditional variational autoencoder
-
 
 # Audio Signal Processing
 * Librosa (Python Library) tutorial: https://github.com/prodramp/publiccode/blob/master/machine_learning/python_audio_tutorial/
