@@ -33,7 +33,6 @@
 * 2024/12 From Audio Deepfake Detection to AI-Generated Music Detection – A Pathway and Overview [link](https://arxiv.org/pdf/2412.00571)
 * 2024/10 Robust Deepfake Detection by Addressing Generalization and Trustworthiness Challenges: A Short Survey [link](https://dl.acm.org/doi/abs/10.1145/3689090.3689386)
 * 2023/8 Audio Deepfake Detection: A Survey [link](https://arxiv.org/abs/2308.14970)
-* 2021/7 A Survey on Neural Speech Synthesis [link](https://arxiv.org/abs/2106.15561)
 
 # Audio Deepfake Detection Implementation
 ## Datasets
@@ -65,20 +64,27 @@
 * FakeAVCelebV2, H. Khalid, S. Tariq, M. Kim, and S. S. Woo, “Fakeavceleb: A novel audio-video multimodal deepfake dataset,” arXiv:2108.05080, 2021.
 * ADD series, J. Yi et al., “Add 2022: The first audio deepfake detection challenge,” in ICASSP, 2022. and H. Zhang et al., “Add 2023: Audio deepfake detection challenge,” in ICASSP, 2023.
 
-
-## Speech Synthesis
-* Synthesis Methods:
-    * Text-to-speech (TTS)
-    * Voice conversion (VC) 
-
-* Synthesis (an encoder-decoder framework):
-    * Encoders: convert input into embeddings
-    * Decoders: Mel spectrogram generator or vocoder 
-    * Conditional variational autoencoder
-
-
 ## Models
-Wav2vec xlsr: https://github.com/facebookresearch/fairseq/blob/main/examples/wav2vec/README.md
+|Model|Type|Code|
+|:---|:---|:---|
+|Wav2vec XLS-R - multilingual speech representation model|Input: raw speech audio -> Encoder -> Output: a sequence of contextualized feature embeddings|[GitHub](https://github.com/facebookresearch/fairseq/blob/main/examples/wav2vec/README.md)|
+
+
+# Speech Synthesis (TTS and VC)
+
+## Synthesis Methods:
+### Text-to-speech (TTS)
+### Voice conversion (VC) 
+
+### Surveys
+* 2021/7 A Survey on Neural Speech Synthesis [link](https://arxiv.org/abs/2106.15561)
+* 2020/11 An Overview of Voice Conversion and its Challenges: From Statistical Modeling to Deep Learning [link](https://arxiv.org/abs/2008.03648)
+
+
+### Synthesis (an encoder-decoder framework):
+* Encoders: convert input into embeddings
+* Decoders: Mel spectrogram generator or vocoder 
+* Conditional variational autoencoder
 
 
 # Audio Signal Processing
