@@ -4,11 +4,12 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2025/6|Dual-Detector Reoptimization for Federated Weakly Supervised Video Anomaly Detection via Adaptive Dynamic Recursive Mapping, published in IEEE Transactions on Industrial Informatics|[link](https://ieeexplore.ieee.org/document/11036561)|[code](https://github.com/rekkles2/Fed_WSVAD)|
 |2022/8|ActionFormer: Localizing Moments of Actions with Transformers|[link](https://arxiv.org/pdf/2202.07925)|[code](https://github.com/happyharrycn/actionformer_release)|
 |2024/4|Integrating frame-level boundary detection and deepfake detection for locating manipulated regions in partially spoofed audio forgery attacks|[link](https://www.sciencedirect.com/science/article/pii/S088523082300116X)||
 |2023/8|UMMAFormer: A Universal Multimodal-adaptive Transformer Framework for Temporal Forgery Localization|[link](https://arxiv.org/pdf/2308.14395)|[code](https://github.com/ymhzyj/UMMAFormer)|
 |2023|The PartialSpoof Database and Countermeasures for the Detection of Short Fake Speech Segments Embedded in an Utterance, published in TASLPRO2023|[link](https://arxiv.org/pdf/2204.05177)||
-|2023/5/4|Do You Really Mean That? Content Driven Audio-Visual Deepfake Dataset and Multimodal Method for Temporal Forgery Localization|[link](https://arxiv.org/pdf/2204.06228)|[Dataset](https://github.com/ControlNet/LAV-DF)|
+|2023/5/4|Do You Really Mean That? Content Driven Audio-Visual Deepfake Dataset and Multimodal Method for Temporal Forgery Localization|[link](https://arxiv.org/pdf/2204.06228)|[Dataset@github](https://github.com/ControlNet/LAV-DF)[Dataset@kaggle](https://www.kaggle.com/datasets/elin75/localized-audio-visual-deepfake-dataset-lav-df)|
 |2024/7|AV-Deepfake1M: A Large-Scale LLM-Driven Audio-Visual Deepfake Dataset|[link](https://arxiv.org/pdf/2311.15308)|[Dataset](https://github.com/ControlNet/AV-Deepfake1M)|
 |2021|A Comparative Study on Recent Neural Spoofing Countermeasures for Synthetic Speech Detection|[link](https://www.isca-archive.org/interspeech_2021/wang21fa_interspeech.pdf)|[code](https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts)|
 |2024|Prompt-Enhanced Multiple Instance Learning for Weakly Supervised Video Anomaly Detection|[link](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Prompt-Enhanced_Multiple_Instance_Learning_for_Weakly_Supervised_Video_Anomaly_Detection_CVPR_2024_paper.pdf)||
@@ -65,9 +66,9 @@
 * ADD series, J. Yi et al., “Add 2022: The first audio deepfake detection challenge,” in ICASSP, 2022. and H. Zhang et al., “Add 2023: Audio deepfake detection challenge,” in ICASSP, 2023.
 
 ## Models
-|Model|Type|Code|
-|:---|:---|:---|
-|Wav2vec XLS-R - multilingual speech representation model|Input: raw speech audio -> Encoder -> Output: a sequence of contextualized feature embeddings|[GitHub](https://github.com/facebookresearch/fairseq/blob/main/examples/wav2vec/README.md)|
+|Model|Type|Input -> Output|Code|
+|:---|:---|:---|:---|
+|Wav2vec XLS-R - multilingual speech representation model|Encoder|raw speech audio -> a sequence of contextualized feature embeddings|[GitHub](https://github.com/facebookresearch/fairseq/blob/main/examples/wav2vec/README.md)|
 
 
 # Speech Synthesis 
