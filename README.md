@@ -4,20 +4,17 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
-|2025/6|Dual-Detector Reoptimization for Federated Weakly Supervised Video Anomaly Detection via Adaptive Dynamic Recursive Mapping, published in IEEE Transactions on Industrial Informatics|[link](https://ieeexplore.ieee.org/document/11036561)|[code](https://github.com/rekkles2/Fed_WSVAD)|
-|2022/8|ActionFormer: Localizing Moments of Actions with Transformers|[link](https://arxiv.org/pdf/2202.07925)|[code](https://github.com/happyharrycn/actionformer_release)|
+|2024/12|SLIM: Style-Linguistics Mismatch Model for Generalized Audio Deepfake Detection, published in NeurIPS2024|[link](https://nips.cc/virtual/2024/poster/94173)|[code](https://github.com/FireFistisDead/Deepfake-Detection)|
+|2025/1|I Can Hear You: Selective Robust Training for Deepfake Audio Detection|[link](https://iclr.cc/virtual/2025/poster/32111)||
 |2024/4|Integrating frame-level boundary detection and deepfake detection for locating manipulated regions in partially spoofed audio forgery attacks|[link](https://www.sciencedirect.com/science/article/pii/S088523082300116X)||
 |2023/8|UMMAFormer: A Universal Multimodal-adaptive Transformer Framework for Temporal Forgery Localization|[link](https://arxiv.org/pdf/2308.14395)|[code](https://github.com/ymhzyj/UMMAFormer)|
 |2023|The PartialSpoof Database and Countermeasures for the Detection of Short Fake Speech Segments Embedded in an Utterance, published in TASLPRO2023|[link](https://arxiv.org/pdf/2204.05177)||
 |2023/5/4|Do You Really Mean That? Content Driven Audio-Visual Deepfake Dataset and Multimodal Method for Temporal Forgery Localization|[link](https://arxiv.org/pdf/2204.06228)|[github](https://github.com/ControlNet/LAV-DF) [kaggle](https://www.kaggle.com/datasets/elin75/localized-audio-visual-deepfake-dataset-lav-df)|
-|2024/7|AV-Deepfake1M: A Large-Scale LLM-Driven Audio-Visual Deepfake Dataset|[link](https://arxiv.org/pdf/2311.15308)|[Dataset](https://github.com/ControlNet/AV-Deepfake1M)|
+|2024/7|AV-Deepfake1M: A Large-Scale LLM-Driven Audio-Visual Deepfake Dataset|[link](https://arxiv.org/pdf/2311.15308)|[Dataset](https://github.com/ControlNet/AV-Deepfake1M)||
 |2021|A Comparative Study on Recent Neural Spoofing Countermeasures for Synthetic Speech Detection|[link](https://www.isca-archive.org/interspeech_2021/wang21fa_interspeech.pdf)|[code](https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts)|
-|2024|Prompt-Enhanced Multiple Instance Learning for Weakly Supervised Video Anomaly Detection|[link](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Prompt-Enhanced_Multiple_Instance_Learning_for_Weakly_Supervised_Video_Anomaly_Detection_CVPR_2024_paper.pdf)||
-|2023/5|Proposal-Based Multiple Instance Learning for Weakly-Supervised Temporal Action Localization|[link](https://arxiv.org/abs/2305.17861)|[code](https://github.com/RenHuan1999/CVPR2023_P-MIL)|
 |2024/7/3|Audiotime: A Temporally-aligned Audio-text Benchmark Dataset|[link](https://arxiv.org/pdf/2407.02857)||
 |2024/7/23|Coarse-to-Fine Proposal Refinement Framework for Audio Temporal Forgery Detection and Localization|[link](https://arxiv.org/pdf/2407.16554)||
-|2024/11|Multilevel semantic and adaptive actionness learning for weakly supervised temporal action localization, published in Neural Networks|[link](https://www.sciencedirect.com/science/article/abs/pii/S0893608024008347)|[SAL](https://github.com/lizhilin-ustc/SAL)|
-|2025/5/7|Weakly-supervised Audio Temporal Forgery Localization via Progressive Audio-language Co-learning Network|[link](https://arxiv.org/pdf/2505.01880)|
+|2025/5/7|Weakly-supervised Audio Temporal Forgery Localization via Progressive Audio-language Co-learning Network|[link](https://arxiv.org/pdf/2505.01880)||
 |2025/4/11|Robust Audio Deepfake Detection using Ensemble Confidence Calibration, published in ICASSP2025|[link](https://ieeexplore.ieee.org/document/10889972)||
 |2024/12/17|Phoneme-Level Feature Discrepancies: A Key to Detecting Sophisticated Speech Deepfakes|[link](https://arxiv.org/abs/2412.12619)||
 |2022/5/10|NaturalSpeech: End-to-End Text to Speech Synthesis with Human-Level Quality|[link](https://arxiv.org/abs/2205.04421)|[Samples](https://speechresearch.github.io/naturalspeech/)|
