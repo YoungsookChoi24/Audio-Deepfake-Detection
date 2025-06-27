@@ -4,6 +4,8 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2024|CHARACTERIZING THE TEMPORAL DYNAMICS OF UNIVERSAL SPEECH REPRESENTATIONS FOR GENERALIZABLE DEEPFAKE DETECTION, published in ICASSPW|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10627750)||
+|2025|ADIFF: Explaining Audio Difference using Natural Lanuage, published at ICLR 2025|[link](https://openreview.net/pdf?id=l4fMj4Vnly)|[code](https://github.com/soham97/ADIFF)|
 |2024/12|SLIM: Style-Linguistics Mismatch Model for Generalized Audio Deepfake Detection, published in NeurIPS2024|[link](https://nips.cc/virtual/2024/poster/94173)|[code](https://github.com/FireFistisDead/Deepfake-Detection)|
 |2025/1|I Can Hear You: Selective Robust Training for Deepfake Audio Detection|[link](https://iclr.cc/virtual/2025/poster/32111)||
 |2024/4|Integrating frame-level boundary detection and deepfake detection for locating manipulated regions in partially spoofed audio forgery attacks|[link](https://www.sciencedirect.com/science/article/pii/S088523082300116X)||
