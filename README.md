@@ -4,7 +4,9 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
-|2024|CHARACTERIZING THE TEMPORAL DYNAMICS OF UNIVERSAL SPEECH REPRESENTATIONS FOR GENERALIZABLE DEEPFAKE DETECTION, published in ICASSPW|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10627750)||
+|2024|Audio Deepfake Detection With Self-Supervised Wavlm And Multi-Fusion Attentive Classifier, published in ICASSP2024|[link](https://arxiv.org/abs/2312.08089)||
+|2024|An Efficient Temporary Deepfake Location Approach Based Embeddings for Partially Spoofed Audio Detection, published in ICASSP2024|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10448196)||
+|2024|CHARACTERIZING THE TEMPORAL DYNAMICS OF UNIVERSAL SPEECH REPRESENTATIONS FOR GENERALIZABLE DEEPFAKE DETECTION, published in ICASSPW2024|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10627750)||
 |2025|ADIFF: Explaining Audio Difference using Natural Lanuage, published at ICLR 2025|[link](https://openreview.net/pdf?id=l4fMj4Vnly)|[code](https://github.com/soham97/ADIFF)|
 |2024/12|SLIM: Style-Linguistics Mismatch Model for Generalized Audio Deepfake Detection, published in NeurIPS2024|[link](https://nips.cc/virtual/2024/poster/94173)|[code](https://github.com/FireFistisDead/Deepfake-Detection)|
 |2025/1|I Can Hear You: Selective Robust Training for Deepfake Audio Detection|[link](https://iclr.cc/virtual/2025/poster/32111)||
@@ -42,7 +44,7 @@
 * HAD, Jiangyan Yi, Ye Bai, Jianhua Tao, Haoxin Ma, Zhengkun Tian, Chenglong Wang, Tao Wang, and Ruibo Fu. Halftruth: A partially fake audio detection dataset. In Proceedings of the Interspeech, pages 1654–1658, 2021.
 
 ### LLM-driven manipulation
-* AV-Deepfake-1M, Zhixi Cai, Shreya Ghosh, Aman Pankaj Adatia, Munawar Hayat, Abhinav Dhall, Tom Gedeon, and kalin Stefanov. AV-Deepfake1M: A large-scale llm-driven audio-visual deepfake dataset. In Proceedings of the 32nd ACM International Conference on Multimedia, pages 7414–7423, 2024
+* AV-Deepfake-1M, Zhixi Cai, Shreya Ghosh, Aman Pankaj Adatia, Munawar Hayat, Abhinav Dhall, Tom Gedeon, and kalin Stefanov. AV-Deepfake1M: A large-scale llm-driven audio-visual deepfake dataset. In Proceedings of the 32nd ACM International Conference on Multimedia, pages 7414–7423, 2024 [link](https://arxiv.org/pdf/2311.15308)
 
 
 ### Spoofing and Speaker Verification
@@ -56,7 +58,7 @@
 * MLAAD, N. M. Müller, P. Kawa, W. H. Choong, E. Casanova, E. Gölge, T. Müller, P. Syga, P. Sperl, and K. Böttinger, “Mlaad: The multi-language audio anti-spoofing dataset,” arXiv:2401.09512, 2024
 
 ### Environmental Sound Detection
-* In-The-Wild, Nicolas M Muller, Pavel Czempin, Franziska Dieckmann, Adam Froghyar, and Konstantin Bottinger, “Does audio deepfake detection generalize?,” Interspeech, 2022.
+* In-The-Wild, Nicolas M Muller, Pavel Czempin, Franziska Dieckmann, Adam Froghyar, and Konstantin Bottinger, “Does audio deepfake detection generalize?,” Interspeech, 2022. [link](https://deepfake-total.com/in_the_wild)
 
 ### Pure Audio Deepfake Detection
 * WaveFake,  J. Frank and L. Schönherr, “Wavefake: A data set to facilitate audio deepfake detection,” arXiv preprint arXiv:2111.02813, 2021.
@@ -68,7 +70,7 @@
 |Model|Type|Input -> Output|Code|
 |:---|:---|:---|:---|
 |Wav2vec XLS-R - multilingual speech representation model|Encoder|raw speech audio -> a sequence of contextualized feature embeddings|[GitHub](https://github.com/facebookresearch/fairseq/blob/main/examples/wav2vec/README.md)|
-
+|WavLM|Encoder|Output features received by CNN encoder -> Output representations from all Transformer encoder layers|[GitHub](https://github.com/microsoft/unilm/tree/master/wavlm)|
 
 # Speech Synthesis 
 * Methods: Text-to-Speech (TTS) and Voice conversion (VC)
