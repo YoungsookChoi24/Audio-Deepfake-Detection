@@ -4,8 +4,10 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
-|2024|Audio Deepfake Detection With Self-Supervised Wavlm And Multi-Fusion Attentive Classifier, published in ICASSP2024|[link](https://arxiv.org/abs/2312.08089)||
-|2024|An Efficient Temporary Deepfake Location Approach Based Embeddings for Partially Spoofed Audio Detection, published in ICASSP2024|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10448196)||
+|2024/4|A Robust Audio Deepfake Detection System via Multi-View Feature|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10446560)||
+|2024/4|Does Audio Deepfake Detection Rely on Artifacts?, published in ICASSP2024|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10446558)||
+|2024/4|Audio Deepfake Detection With Self-Supervised Wavlm And Multi-Fusion Attentive Classifier, published in ICASSP2024|[link](https://arxiv.org/abs/2312.08089)||
+|2024/4|An Efficient Temporary Deepfake Location Approach Based Embeddings for Partially Spoofed Audio Detection, published in ICASSP2024|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10448196)||
 |2024|CHARACTERIZING THE TEMPORAL DYNAMICS OF UNIVERSAL SPEECH REPRESENTATIONS FOR GENERALIZABLE DEEPFAKE DETECTION, published in ICASSPW2024|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10627750)||
 |2025|ADIFF: Explaining Audio Difference using Natural Lanuage, published at ICLR 2025|[link](https://openreview.net/pdf?id=l4fMj4Vnly)|[code](https://github.com/soham97/ADIFF)|
 |2024/12|SLIM: Style-Linguistics Mismatch Model for Generalized Audio Deepfake Detection, published in NeurIPS2024|[link](https://nips.cc/virtual/2024/poster/94173)|[code](https://github.com/FireFistisDead/Deepfake-Detection)|
