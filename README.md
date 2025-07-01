@@ -4,6 +4,8 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2025/5|Supervised Contrastive Learning from Weakly-Labeled Audio Segments for Musical Version Matching|[link](https://arxiv.org/abs/2502.16936)|[code](https://github.com/sony/clews?tab=readme-ov-file)|
+|2024/8|Learning Disentangled Audio Representations through Controlled Synthesis|[link](https://openreview.net/forum?id=Fn9ORH8PLl)||
 |2024|AND: Audio Network Dissection for Interpreting Deep Acoustic Models|[link](https://proceedings.mlr.press/v235/wu24q.html)|[code](https://github.com/Trustworthy-ML-Lab/Audio_Network_Dissection)|
 |2024/4|A Robust Audio Deepfake Detection System via Multi-View Feature|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10446560)||
 |2024/4|Does Audio Deepfake Detection Rely on Artifacts?, published in ICASSP2024|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10446558)||
