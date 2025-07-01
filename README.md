@@ -4,6 +4,7 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2024|AND: Audio Network Dissection for Interpreting Deep Acoustic Models|[link](https://proceedings.mlr.press/v235/wu24q.html)|[code](https://github.com/Trustworthy-ML-Lab/Audio_Network_Dissection)|
 |2024/4|A Robust Audio Deepfake Detection System via Multi-View Feature|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10446560)||
 |2024/4|Does Audio Deepfake Detection Rely on Artifacts?, published in ICASSP2024|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10446558)||
 |2024/4|Audio Deepfake Detection With Self-Supervised Wavlm And Multi-Fusion Attentive Classifier, published in ICASSP2024|[link](https://arxiv.org/abs/2312.08089)||
