@@ -4,6 +4,7 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2025/2|Where are We in Audio Deepfake Detection? A Systematic Analysis over Generative and Detection Models, accepted in ACM Transactions on Internet Technology|[link](https://dl.acm.org/doi/abs/10.1145/3736765)|[code](https://github.com/Jessegator/SONAR)|
 |2024/10|Audio Deepfake Detection with XLS-R and SLS classfier|[link](https://openreview.net/pdf?id=acJMIXJg2u)|[code](https://github.com/QiShanZhang/SLSforASVspoof-2021-DF/tree/main?tab=readme-ov-file)|
 |2024|SpeechForensics: Audio-Visual Speech Representation Learning for Face Forgery Detection|[link](https://proceedings.neurips.cc/paper_files/paper/2024/hash/9c7900fac04a701cbed83256b76dbaa3-Abstract-Conference.html)|[code](https://github.com/Eleven4AI/SpeechForensics)|
 |2025/5|Supervised Contrastive Learning from Weakly-Labeled Audio Segments for Musical Version Matching|[link](https://arxiv.org/abs/2502.16936)|[code](https://github.com/sony/clews?tab=readme-ov-file)|
