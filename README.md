@@ -39,6 +39,7 @@
 |2024/08/27, v4|Does Audio Deepfake Detection Generalize?|[link](https://arxiv.org/abs/2203.16263)||
 
 ### Surveys
+* 2025/3 Audio Deepfake Detection: What Has Been Achieved and What Lies Ahead [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC11991371/pdf/sensors-25-01989.pdf)
 * 2025/8 A comprehensive survey with critical analysis for deepfake speech detection [link](https://www.sciencedirect.com/science/article/pii/S1574013725000334?casa_token=pX1nwj9YnMwAAAAA:0zt4Tpc2VDtldrhW1iKGivl6xPMatMqWZ27VfvmlgwliDIqe3F2GcirXECbE1-dR9fyUJKnr)
 * 2024/12 From Audio Deepfake Detection to AI-Generated Music Detection – A Pathway and Overview [link](https://arxiv.org/pdf/2412.00571)
 * 2024/10 Robust Deepfake Detection by Addressing Generalization and Trustworthiness Challenges: A Short Survey [link](https://dl.acm.org/doi/abs/10.1145/3689090.3689386)
