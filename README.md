@@ -4,7 +4,8 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
-|2025|The Codecfake Dataset and Countermeasures for the Universally Detection of Deepfake Audio|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10830534?denied=)|[code](https://github.com/xieyuankun/Codecfake)|
+|2025|Multi-Task Partially Spoofed Speech Detection Using a Dual-View Graph Neural Network Assisted Segment-Level Module|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/11062085)||
+|2025/1|The Codecfake Dataset and Countermeasures for the Universally Detection of Deepfake Audio, published in IEEE transactions on Audio, Speech and Language Processing|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10830534?denied=)|[code](https://github.com/xieyuankun/Codecfake)|
 |2025/2|Where are We in Audio Deepfake Detection? A Systematic Analysis over Generative and Detection Models, accepted in ACM Transactions on Internet Technology|[link](https://dl.acm.org/doi/abs/10.1145/3736765)|[code](https://github.com/Jessegator/SONAR)|
 |2024/10|Audio Deepfake Detection with XLS-R and SLS classfier|[link](https://openreview.net/pdf?id=acJMIXJg2u)|[code](https://github.com/QiShanZhang/SLSforASVspoof-2021-DF/tree/main?tab=readme-ov-file)|
 |2024|SpeechForensics: Audio-Visual Speech Representation Learning for Face Forgery Detection|[link](https://proceedings.neurips.cc/paper_files/paper/2024/hash/9c7900fac04a701cbed83256b76dbaa3-Abstract-Conference.html)|[code](https://github.com/Eleven4AI/SpeechForensics)|
@@ -55,7 +56,7 @@
 
 ### LLM-driven manipulation
 * AV-Deepfake-1M, Zhixi Cai, Shreya Ghosh, Aman Pankaj Adatia, Munawar Hayat, Abhinav Dhall, Tom Gedeon, and kalin Stefanov. AV-Deepfake1M: A large-scale llm-driven audio-visual deepfake dataset. In Proceedings of the 32nd ACM International Conference on Multimedia, pages 7414–7423, 2024 [link](https://arxiv.org/pdf/2311.15308)
-
+* Codecfake Dataset [link](https://github.com/xieyuankun/Codecfake)
 
 ### Spoofing and Speaker Verification
 * ASVspoof2019 [link](https://datashare.ed.ac.uk/handle/10283/3336)
