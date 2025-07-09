@@ -4,6 +4,7 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2025|ASSD: An AI-Synthesized Speech Detection Scheme Using Whisper Feature and Types Classification|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10842678/)||
 |2025|Multi-Task Partially Spoofed Speech Detection Using a Dual-View Graph Neural Network Assisted Segment-Level Module|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/11062085)||
 |2025/1|The Codecfake Dataset and Countermeasures for the Universally Detection of Deepfake Audio, published in IEEE transactions on Audio, Speech and Language Processing|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10830534?denied=)|[code](https://github.com/xieyuankun/Codecfake)|
 |2025/2|Where are We in Audio Deepfake Detection? A Systematic Analysis over Generative and Detection Models, accepted in ACM Transactions on Internet Technology|[link](https://dl.acm.org/doi/abs/10.1145/3736765)|[code](https://github.com/Jessegator/SONAR)|
