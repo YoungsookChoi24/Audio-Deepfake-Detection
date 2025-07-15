@@ -4,6 +4,7 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2025|BFC-Net: Boundary-Frame cross graph attention network for partially spoofed audio localization|[link](https://www-sciencedirect-com.unr.idm.oclc.org/science/article/pii/S0925231225015395)||
 |2023|Timbre-Reserved Adversarial Attack in Speaker Identification|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10224300)||
 |2023|ASVspoof 2021: Towards Spoofed and Deepfake Speech Detection in the Wild|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10155166)||
 |2024|FTDKD: Frequency-Time Domain Knowledge Distillation for Low-Quality Compressed Audio Deepfake Detection|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10747292)||
@@ -57,7 +58,7 @@
 
 ### Rule-based replacement manipulation
 * LAV-DF, Zhixi Cai, Kalin Stefanov, Abhinav Dhall, and Munawar Hayat. Do you really mean that? content driven audiovisual deepfake dataset and multimodal method for temporal forgery localization. In Proceedings of the International Conference on Digital Image Computing: Techniques and Applications, pages 1–10, 2022.
-* HAD, Jiangyan Yi, Ye Bai, Jianhua Tao, Haoxin Ma, Zhengkun Tian, Chenglong Wang, Tao Wang, and Ruibo Fu. Halftruth: A partially fake audio detection dataset. In Proceedings of the Interspeech, pages 1654–1658, 2021.
+* (Partially Spoofed Dataset) HAD, Jiangyan Yi, Ye Bai, Jianhua Tao, Haoxin Ma, Zhengkun Tian, Chenglong Wang, Tao Wang, and Ruibo Fu. Halftruth: A partially fake audio detection dataset. In Proceedings of the Interspeech, pages 1654–1658, 2021.
 
 ### LLM-driven manipulation
 * AV-Deepfake-1M, Zhixi Cai, Shreya Ghosh, Aman Pankaj Adatia, Munawar Hayat, Abhinav Dhall, Tom Gedeon, and kalin Stefanov. AV-Deepfake1M: A large-scale llm-driven audio-visual deepfake dataset. In Proceedings of the 32nd ACM International Conference on Multimedia, pages 7414–7423, 2024 [link](https://arxiv.org/pdf/2311.15308)
