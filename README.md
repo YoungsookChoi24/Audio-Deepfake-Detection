@@ -4,6 +4,7 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2023|Timbre-Reserved Adversarial Attack in Speaker Identification|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10224300)||
 |2023|ASVspoof 2021: Towards Spoofed and Deepfake Speech Detection in the Wild|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10155166)||
 |2024|FTDKD: Frequency-Time Domain Knowledge Distillation for Low-Quality Compressed Audio Deepfake Detection|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10747292)||
 |2024|Generalizable Speech Spoofing Detection Against Silence Trimming With Data Augmentation and Multi-Task Meta-Learning|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10557138)||
