@@ -4,6 +4,7 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2025/7|Robust Localization of Partially Fake Speech: Metrics, Models, and Out-of-Domain Evaluation|[link](https://arxiv.org/abs/2507.03468)||
 |2025|BFC-Net: Boundary-Frame cross graph attention network for partially spoofed audio localization|[link](https://www-sciencedirect-com.unr.idm.oclc.org/science/article/pii/S0925231225015395)||
 |2023|Timbre-Reserved Adversarial Attack in Speaker Identification|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10224300)||
 |2023|ASVspoof 2021: Towards Spoofed and Deepfake Speech Detection in the Wild|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10155166)||
@@ -63,6 +64,7 @@
 ### LLM-driven manipulation
 * AV-Deepfake-1M, Zhixi Cai, Shreya Ghosh, Aman Pankaj Adatia, Munawar Hayat, Abhinav Dhall, Tom Gedeon, and kalin Stefanov. AV-Deepfake1M: A large-scale llm-driven audio-visual deepfake dataset. In Proceedings of the 32nd ACM International Conference on Multimedia, pages 7414–7423, 2024 [link](https://arxiv.org/pdf/2311.15308)
 * Codecfake Dataset [link](https://github.com/xieyuankun/Codecfake)
+* (Partially Fake Speech Dataset) LlamaPartialSpoof, H.-T. Luong, I. Rimon, H. Permuter, K. A. Lee, and E. S. Chng, "Robust Localization of Partially Fake Speech: Metrics, Models, and Out-of-Domain Evaluation," arXiv preprint arXiv:2507.03468, 2025. [link](https://arxiv.org/abs/2409.14743)
 
 ### Spoofing and Speaker Verification
 * ASVspoof2019 [link](https://datashare.ed.ac.uk/handle/10283/3336)
