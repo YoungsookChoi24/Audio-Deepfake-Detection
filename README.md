@@ -4,6 +4,7 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2026/1|ASVspoof 5: Design, collection and validation of resources for spoofing, deepfake, and adversarial attack detection using crowdsourced speech|[link](https://www-sciencedirect-com.unr.idm.oclc.org/science/article/pii/S0885230825000506)||
 |2025/7|Robust Localization of Partially Fake Speech: Metrics, Models, and Out-of-Domain Evaluation|[link](https://arxiv.org/abs/2507.03468)||
 |2025|BFC-Net: Boundary-Frame cross graph attention network for partially spoofed audio localization|[link](https://www-sciencedirect-com.unr.idm.oclc.org/science/article/pii/S0925231225015395)||
 |2023|Timbre-Reserved Adversarial Attack in Speaker Identification|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10224300)||
@@ -71,6 +72,7 @@
 * ASVspoof2021 LA [link](https://zenodo.org/records/4837263#.YnDIinYzZhE)
 * ASVspoof2021 DF [link](https://zenodo.org/records/4835108#.YnDIb3YzZhE)
 * ASVspoof2021 dataset labels [link](https://www.asvspoof.org/index2021.html)
+* ASVspoof5 [link](https://doi.org/10.5281/zenodo.14498691)
 * CVoice,  X. Li, K. Li, Y. Zheng, C. Yan, X. Ji, and W. Xu, “Safeear: Content privacy-preserving audio deepfake detection,” arXiv:2409.09272, 2024.
 
 ### Multimodal Deepfake Detection
