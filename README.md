@@ -108,4 +108,4 @@
 # Audio Signal Processing
 * Librosa (Python Library) tutorial: https://github.com/prodramp/publiccode/blob/master/machine_learning/python_audio_tutorial/
 * PyTorch (Audio library for PyTorch): https://github.com/prodramp/publiccode/blob/master/machine_learning/python_audio_tutorial/
-
+* openSMILE (Open-source toolkit for feature extraction): https://github.com/audeering/opensmile
