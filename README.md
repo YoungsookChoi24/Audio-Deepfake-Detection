@@ -4,6 +4,7 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2025|Spoofing countermeasure for fake speech detection using brute force features|[link](https://www-sciencedirect-com.unr.idm.oclc.org/science/article/pii/S0885230824001153)||
 |2026|Towards explainable spoofed speech attribution and detection: A probabilistic approach for characterizing speech synthesizer component|[link](https://www-sciencedirect-com.unr.idm.oclc.org/science/article/pii/S0885230825000658)||
 |2026/1|ASVspoof 5: Design, collection and validation of resources for spoofing, deepfake, and adversarial attack detection using crowdsourced speech|[link](https://www-sciencedirect-com.unr.idm.oclc.org/science/article/pii/S0885230825000506)||
 |2025/7|Robust Localization of Partially Fake Speech: Metrics, Models, and Out-of-Domain Evaluation|[link](https://arxiv.org/abs/2507.03468)||
