@@ -4,6 +4,7 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2025|Leveraging distance information for generalized spoofing speech detection|[link](https://www-sciencedirect-com.unr.idm.oclc.org/science/article/pii/S0885230825000294)||
 |2025|Spoofing countermeasure for fake speech detection using brute force features|[link](https://www-sciencedirect-com.unr.idm.oclc.org/science/article/pii/S0885230824001153)||
 |2026|Towards explainable spoofed speech attribution and detection: A probabilistic approach for characterizing speech synthesizer component|[link](https://www-sciencedirect-com.unr.idm.oclc.org/science/article/pii/S0885230825000658)||
 |2026/1|ASVspoof 5: Design, collection and validation of resources for spoofing, deepfake, and adversarial attack detection using crowdsourced speech|[link](https://www-sciencedirect-com.unr.idm.oclc.org/science/article/pii/S0885230825000506)||
@@ -94,6 +95,7 @@
 |:---|:---|:---|:---|
 |Wav2vec XLS-R - multilingual speech representation model|Encoder|raw speech audio -> a sequence of contextualized feature embeddings|[GitHub](https://github.com/facebookresearch/fairseq/blob/main/examples/wav2vec/README.md)|
 |WavLM|Encoder|Output features received by CNN encoder -> Output representations from all Transformer encoder layers|[GitHub](https://github.com/microsoft/unilm/tree/master/wavlm)|
+|AASIST|Classifier||[GitHub](https://github.com/clovaai/aasist)|
 
 # Speech Synthesis 
 * Methods: Text-to-Speech (TTS) and Voice conversion (VC)
