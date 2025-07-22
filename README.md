@@ -4,6 +4,7 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2024|GENERATIVE PRE-TRAINING FOR SPEECH WITH FLOW MATCHING|[link](https://arxiv.org/abs/2310.16338)||
 |2025|Leveraging distance information for generalized spoofing speech detection|[link](https://www-sciencedirect-com.unr.idm.oclc.org/science/article/pii/S0885230825000294)||
 |2025|Spoofing countermeasure for fake speech detection using brute force features|[link](https://www-sciencedirect-com.unr.idm.oclc.org/science/article/pii/S0885230824001153)||
 |2026|Towards explainable spoofed speech attribution and detection: A probabilistic approach for characterizing speech synthesizer component|[link](https://www-sciencedirect-com.unr.idm.oclc.org/science/article/pii/S0885230825000658)||
@@ -94,8 +95,8 @@
 |Model|Type|Input -> Output|Code|
 |:---|:---|:---|:---|
 |Wav2vec XLS-R - multilingual speech representation model|Encoder|raw speech audio -> a sequence of contextualized feature embeddings|[GitHub](https://github.com/facebookresearch/fairseq/blob/main/examples/wav2vec/README.md)|
-|WavLM|Encoder|Output features received by CNN encoder -> Output representations from all Transformer encoder layers|[GitHub](https://github.com/microsoft/unilm/tree/master/wavlm)|
-|AASIST|Classifier||[GitHub](https://github.com/clovaai/aasist)|
+|WavLM|Encoder| features received by CNN encoder -> Output representations from all Transformer encoder layers|[GitHub](https://github.com/microsoft/unilm/tree/master/wavlm)|
+|AASIST|E2E(RawNet2-based encoder and a graph neural networks module)| Encoder: Speech waveform -> 2D feature |[GitHub](https://github.com/clovaai/aasist)|
 
 # Speech Synthesis 
 * Methods: Text-to-Speech (TTS) and Voice conversion (VC)
