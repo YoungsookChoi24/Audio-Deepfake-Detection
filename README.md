@@ -4,6 +4,7 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2025|Modifying Flow Matching for Generative Speech Enhancement|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10888705)||
 |2024|GENERATIVE PRE-TRAINING FOR SPEECH WITH FLOW MATCHING|[link](https://arxiv.org/abs/2310.16338)||
 |2025|Leveraging distance information for generalized spoofing speech detection|[link](https://www-sciencedirect-com.unr.idm.oclc.org/science/article/pii/S0885230825000294)||
 |2025|Spoofing countermeasure for fake speech detection using brute force features|[link](https://www-sciencedirect-com.unr.idm.oclc.org/science/article/pii/S0885230824001153)||
