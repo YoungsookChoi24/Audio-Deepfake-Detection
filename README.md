@@ -4,6 +4,7 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2023|Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale|[link](https://arxiv.org/abs/2306.15687)||
 |2025|Modifying Flow Matching for Generative Speech Enhancement|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10888705)||
 |2024|GENERATIVE PRE-TRAINING FOR SPEECH WITH FLOW MATCHING|[link](https://arxiv.org/abs/2310.16338)||
 |2025|Leveraging distance information for generalized spoofing speech detection|[link](https://www-sciencedirect-com.unr.idm.oclc.org/science/article/pii/S0885230825000294)||
@@ -102,10 +103,13 @@
 # Speech Synthesis 
 * Methods: Text-to-Speech (TTS) and Voice conversion (VC)
 
-## Papers
-### Text-to-speech (TTS)
-### Voice conversion (VC) 
-
+## Text-to-speech (TTS) or Voice conversion (VC) Papers
+### In-context speech generation: 
+* Voicebox [Le et al., 2023] is a NAR flow matching model.
+* GSLM-family [Lakhotia et al., 2021, Kharitonov et al., 2021, Nguyen et al., 2022] are textless language models built upon HuBERT units [Hsu et al., 3 2021]
+* VALL-E [Wang et al., 2023] is a text conditioned LM trained on Encodec [Defossez et al., 2022].
+* NaturalSpeech2 [Shen et al., 2023] adopts the latent diffusion framework. 
+ 
 ## Surveys
 * 2021/7 A Survey on Neural Speech Synthesis [link](https://arxiv.org/abs/2106.15561)
 * 2020/11 An Overview of Voice Conversion and its Challenges: From Statistical Modeling to Deep Learning [link](https://arxiv.org/abs/2008.03648)
