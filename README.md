@@ -4,6 +4,7 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2025|Easy, Interpretable, Effective: openSMILE for voice deepfake detection|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10890543)||
 |2015|Librispeech: An ASR corpus based on public domain audio books|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/7178964)|[datasets](http://www.openslr.org/11)|
 |2023|Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale|[link](https://arxiv.org/abs/2306.15687)||
 |2025|Modifying Flow Matching for Generative Speech Enhancement|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10888705)||
