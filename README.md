@@ -4,6 +4,7 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2025|Mixture of Experts Fusion for Fake Audio Detection Using Frozen wav2vec 2.0|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10888990)||
 |2025|ADVWAVE: STEALTHY ADVERSARIAL JAILBREAK ATTACK AGAINST LARGE AUDIO-LANGUAGE MODELS|[link](https://openreview.net/forum?id=0BujOfTqab)||
 |2025/4|Adversarial Training and Gradient Optimization for Partially Deepfake Audio Localization|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10890470)|[code](https://github.com/Little-dingding/ATGO)|
 |2025|Easy, Interpretable, Effective: openSMILE for voice deepfake detection|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10890543)||
