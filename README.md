@@ -4,6 +4,7 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2025/4|Investigating voiced and unvoiced regions of speech for audio deepfake detection|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10890861)||
 |2025/4|What Does an Audio Deepfake Detector Focus on? A Study in the Time Domain|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10887568)||
 |2025/4|What Affects the Performance of Fake Audio Detection? Analyzing Factors in a Continual Learning Setting|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10888114)||
 |2025/4|Mixture of Experts Fusion for Fake Audio Detection Using Frozen wav2vec 2.0|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10888990)||
