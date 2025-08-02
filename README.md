@@ -4,6 +4,7 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2025/4|GNCL: A Graph Neural Network with Consistency Loss for Segment-Level Spoofed Speech Detection|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10888281)||
 |2025/4|Investigating voiced and unvoiced regions of speech for audio deepfake detection|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10890861)||
 |2025/4|What Does an Audio Deepfake Detector Focus on? A Study in the Time Domain|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10887568)||
 |2025/4|What Affects the Performance of Fake Audio Detection? Analyzing Factors in a Continual Learning Setting|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10888114)||
@@ -121,6 +122,7 @@
 ## Surveys
 * 2021/7 A Survey on Neural Speech Synthesis [link](https://arxiv.org/abs/2106.15561)
 * 2020/11 An Overview of Voice Conversion and its Challenges: From Statistical Modeling to Deep Learning [link](https://arxiv.org/abs/2008.03648)
+* 2022/11 A Survey on Voice Assistant Security: Attacks and Countermeasures [link](https://dl.acm.org/doi/full/10.1145/3527153?casa_token=oeQfttwZGhkAAAAA%3AcWy2YQdtkNI8IMp4lU_4it3bsOSPX2dJ1tLicDkeUtF_toLi6BWlwVPlziRQp07fBJ0rSYqaqCc)
 
 # Audio Signal Processing
 * Librosa (Python Library) tutorial: https://github.com/prodramp/publiccode/blob/master/machine_learning/python_audio_tutorial/
