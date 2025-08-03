@@ -4,6 +4,7 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2025/4|Continual Unsupervised Domain Adaptation for Audio Deepfake Detection|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10890538)||
 |2025/4|GNCL: A Graph Neural Network with Consistency Loss for Segment-Level Spoofed Speech Detection|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10888281)||
 |2025/4|Investigating voiced and unvoiced regions of speech for audio deepfake detection|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10890861)||
 |2025/4|What Does an Audio Deepfake Detector Focus on? A Study in the Time Domain|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10887568)||
