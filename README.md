@@ -4,6 +4,7 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2025/4|Integrating Spectro-Temporal Cross Aggregation and Multi-Scale Dynamic Learning for Audio Deepfake Detection|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10889337)||
 |2025/4|Generalize Audio Deepfake Algorithm Recognition via Attribution Enhancement|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10889399)||
 |2025/4|Continual Unsupervised Domain Adaptation for Audio Deepfake Detection|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10890538)||
 |2025/4|GNCL: A Graph Neural Network with Consistency Loss for Segment-Level Spoofed Speech Detection|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10888281)||
