@@ -4,7 +4,8 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
-|2024/6|Listenable Maps for Audio Classifiers|[link](https://arxiv.org/abs/2403.13086)|[code](https://github.com/speechbrain/speechbrain/tree/develop/recipes/ESC50/interpret)|
+|2025/4|Leveraging Mixture of Experts for Improved Speech Deepfake Detection|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10890398)|[code](https://github.com/polimi-ispl/moe_speech_deepfake/)|
+|2024/6|Listenable Maps for Audio Classifiers|[link](https://arxiv.org/abs/2403.13086)|[Experimental Setup](https://github.com/speechbrain/speechbrain/tree/develop/recipes/ESC50/interpret)|
 |2024/9|Fast and Lightweight Voice Replay Attack Detection via Time-Frequency Spectrum Difference|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/abstract/document/10540568)||
 |2025/4|Integrating Spectro-Temporal Cross Aggregation and Multi-Scale Dynamic Learning for Audio Deepfake Detection|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10889337)||
 |2025/4|Generalize Audio Deepfake Algorithm Recognition via Attribution Enhancement|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10889399)||
