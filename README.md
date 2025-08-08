@@ -4,6 +4,7 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2025/4|Freeze and Learn: Continual Learning with Selective Freezing for Speech Deepfake Detection|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10889357)||
 2025/4||PET: High-Frequency Temporal Self-Consistency Learning for Partially Deepfake Audio Localization|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10889913)||
 |2025/4|Leveraging Mixture of Experts for Improved Speech Deepfake Detection|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10890398)|[code](https://github.com/polimi-ispl/moe_speech_deepfake/)|
 |2024/6|Listenable Maps for Audio Classifiers|[link](https://arxiv.org/abs/2403.13086)|[Experimental Setup](https://github.com/speechbrain/speechbrain/tree/develop/recipes/ESC50/interpret)|
@@ -108,6 +109,7 @@
 * FakeOrReal, R. Reimao and V. Tzerpos, “For: A dataset for synthetic speech detection,” in 2019 International Conference on Speech Technology and Human-Computer Dialogue (SpeD). IEEE, 2019, pp. 1–10.
 * FakeAVCelebV2, H. Khalid, S. Tariq, M. Kim, and S. S. Woo, “Fakeavceleb: A novel audio-video multimodal deepfake dataset,” arXiv:2108.05080, 2021.
 * ADD series, J. Yi et al., “Add 2022: The first audio deepfake detection challenge,” in ICASSP, 2022. and H. Zhang et al., “Add 2023: Audio deepfake detection challenge,” in ICASSP, 2023.
+* Purdue speech dataset, K. Bhagtani, A. K. S. Yadav, P. Bestagini, and E. J. Delp, “Are Recent Deepfake Speech Generators Detectable?” in ACM Workshop on Information Hiding and Multimedia Security, 2024.
 
 ## Models
 |Model|Type|Input -> Output|Code|
