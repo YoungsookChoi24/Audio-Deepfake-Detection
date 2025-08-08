@@ -5,7 +5,7 @@
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
 |2025/4|Freeze and Learn: Continual Learning with Selective Freezing for Speech Deepfake Detection|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10889357)||
-2025/4||PET: High-Frequency Temporal Self-Consistency Learning for Partially Deepfake Audio Localization|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10889913)||
+|2025/4||PET: High-Frequency Temporal Self-Consistency Learning for Partially Deepfake Audio Localization|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10889913)||
 |2025/4|Leveraging Mixture of Experts for Improved Speech Deepfake Detection|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10890398)|[code](https://github.com/polimi-ispl/moe_speech_deepfake/)|
 |2024/6|Listenable Maps for Audio Classifiers|[link](https://arxiv.org/abs/2403.13086)|[Experimental Setup](https://github.com/speechbrain/speechbrain/tree/develop/recipes/ESC50/interpret)|
 |2024/9|Fast and Lightweight Voice Replay Attack Detection via Time-Frequency Spectrum Difference|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/abstract/document/10540568)||
