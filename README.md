@@ -4,6 +4,7 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2025/4|SpecViT: A Custom Vision-Transformer based Approach for Audio Deepfake Detection|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10889022)||
 |2025/4|Freeze and Learn: Continual Learning with Selective Freezing for Speech Deepfake Detection|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10889357)||
 |2025/4|PET: High-Frequency Temporal Self-Consistency Learning for Partially Deepfake Audio Localization|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10889913)||
 |2025/4|Leveraging Mixture of Experts for Improved Speech Deepfake Detection|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10890398)|[code](https://github.com/polimi-ispl/moe_speech_deepfake/)|
