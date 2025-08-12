@@ -4,6 +4,8 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2025|Audio Features Investigation for Singing Voice Deepfake Detection|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10888452)||
+|2023|AudioLM: a Language Modeling Approach to Audio Generation|[link](https://arxiv.org/abs/2209.03143)||
 |2026/2|Simultaneous speech and background sound recognition in diverse acoustic environments with branched neural networks|[link](https://www-sciencedirect-com.unr.idm.oclc.org/science/article/pii/S0885230825000932)||
 |2025/4|SpecViT: A Custom Vision-Transformer based Approach for Audio Deepfake Detection|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10889022)||
 |2025/4|Freeze and Learn: Continual Learning with Selective Freezing for Speech Deepfake Detection|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10889357)||
