@@ -4,6 +4,8 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2024|NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models|[link](https://arxiv.org/abs/2403.03100)||
+|2022|Automatic speaker verification spoofing and deepfake detection using wav2vec 2.0 and data augmentation|[link](https://arxiv.org/abs/2202.12233)|[code](https://github.com/TakHemlata/SSL_Anti-spoofing)|
 |2025|Audio Features Investigation for Singing Voice Deepfake Detection|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10888452)||
 |2023|AudioLM: a Language Modeling Approach to Audio Generation|[link](https://arxiv.org/abs/2209.03143)||
 |2026/2|Simultaneous speech and background sound recognition in diverse acoustic environments with branched neural networks|[link](https://www-sciencedirect-com.unr.idm.oclc.org/science/article/pii/S0885230825000932)||
