@@ -4,6 +4,8 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2025/4|ZSVC: Zero-shot Style Voice Conversion with Disentangled Latent Diffusion Models and Adversarial Training|[link](https://ieeexplore.ieee.org/document/10888535)||
+|2025/4|From Voices to Beats: Enhancing Music Deepfake Detection by Identifying Forgeries in Background|[link](https://ieeexplore.ieee.org/document/10890293)||
 |2024|NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models|[link](https://arxiv.org/abs/2403.03100)||
 |2022|Automatic speaker verification spoofing and deepfake detection using wav2vec 2.0 and data augmentation|[link](https://arxiv.org/abs/2202.12233)|[code](https://github.com/TakHemlata/SSL_Anti-spoofing)|
 |2025|Audio Features Investigation for Singing Voice Deepfake Detection|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10888452)||
@@ -116,6 +118,10 @@
 * FakeAVCelebV2, H. Khalid, S. Tariq, M. Kim, and S. S. Woo, “Fakeavceleb: A novel audio-video multimodal deepfake dataset,” arXiv:2108.05080, 2021.
 * ADD series, J. Yi et al., “Add 2022: The first audio deepfake detection challenge,” in ICASSP, 2022. and H. Zhang et al., “Add 2023: Audio deepfake detection challenge,” in ICASSP, 2023.
 * Purdue speech dataset, K. Bhagtani, A. K. S. Yadav, P. Bestagini, and E. J. Delp, “Are Recent Deepfake Speech Generators Detectable?” in ACM Workshop on Information Hiding and Multimedia Security, 2024.
+
+### Music
+* WildSVDD, Y. Zang, Y. Zhang, M. Heydari, and Z. Duan, “Singfake: Singing voice deepfake detection,” in ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2024, pp. 12 156–12 160.
+
 
 ## Models
 |Model|Type|Input -> Output|Code|
