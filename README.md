@@ -4,6 +4,8 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2025/4|Explaining Speaker and Spoof Embeddings via Probing|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10887897)||
+|2025/4|Low-Resource Text-to-Speech Synthesis Using Noise-Augmented Training of ForwardTacotron|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10890686)||
 |2025/4|FADEL: Uncertainty-aware Fake Audio Detection with Evidential Deep Learning|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10888053)||
 |2025/4|ZSVC: Zero-shot Style Voice Conversion with Disentangled Latent Diffusion Models and Adversarial Training|[link](https://ieeexplore.ieee.org/document/10888535)||
 |2025/4|From Voices to Beats: Enhancing Music Deepfake Detection by Identifying Forgeries in Background|[link](https://ieeexplore.ieee.org/document/10890293)||
