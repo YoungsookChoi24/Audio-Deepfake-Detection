@@ -4,6 +4,7 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2025/4|Stable-TTS: Stable Speaker-Adaptive Text-to-Speech Synthesis via Prosody Prompting|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10890553)||
 |2025/4|Explaining Speaker and Spoof Embeddings via Probing|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10887897)||
 |2025/4|Low-Resource Text-to-Speech Synthesis Using Noise-Augmented Training of ForwardTacotron|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10890686)||
 |2025/4|FADEL: Uncertainty-aware Fake Audio Detection with Evidential Deep Learning|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10888053)||
@@ -142,6 +143,7 @@
 * GSLM-family [Lakhotia et al., 2021, Kharitonov et al., 2021, Nguyen et al., 2022] are textless language models built upon HuBERT units [Hsu et al., 3 2021]
 * VALL-E [Wang et al., 2023] is a text conditioned LM trained on Encodec [Defossez et al., 2022].
 * NaturalSpeech2 [Shen et al., 2023] adopts the latent diffusion framework. 
+* HiFi-GAN [Kong et al., 2020] is a GAN model for efficient and high-fidelity speech synthesis. [link](https://papers.nips.cc/paper/2020/hash/c5d736809766d46260d816d8dbc9eb44-Abstract.html)
  
 ## Surveys
 * 2021/7 A Survey on Neural Speech Synthesis [link](https://arxiv.org/abs/2106.15561)
