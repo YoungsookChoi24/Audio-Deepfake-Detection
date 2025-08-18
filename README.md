@@ -4,6 +4,7 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2025/4|Recursive Feature Learning from Pre-Trained Models for Spoofing Speech Detection|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10888985)||
 |2025/4|Stable-TTS: Stable Speaker-Adaptive Text-to-Speech Synthesis via Prosody Prompting|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10890553)||
 |2025/4|Explaining Speaker and Spoof Embeddings via Probing|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10887897)||
 |2025/4|Low-Resource Text-to-Speech Synthesis Using Noise-Augmented Training of ForwardTacotron|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10890686)||
