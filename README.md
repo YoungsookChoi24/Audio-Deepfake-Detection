@@ -4,6 +4,7 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2025/4|Enhancing Expressive Voice Conversion with Discrete Pitch-Conditioned Flow Matching Model|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10889108)||
 |2025/4|Recursive Feature Learning from Pre-Trained Models for Spoofing Speech Detection|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10888985)||
 |2025/4|Stable-TTS: Stable Speaker-Adaptive Text-to-Speech Synthesis via Prosody Prompting|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10890553)||
 |2025/4|Explaining Speaker and Spoof Embeddings via Probing|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10887897)||
