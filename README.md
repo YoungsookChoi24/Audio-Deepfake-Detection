@@ -4,6 +4,7 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2023/1|The PartialSpoof Database and Countermeasures for the Detection of Short Fake Speech Segments Embedded in an Utterance|[link](https://arxiv.org/abs/2204.05177)||
 |2025/4|DiffAttack: Imperceptible and Transferable Audio Adversarial Attack via Diffusion Model|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10889191)||
 |2025/4|Enhancing Expressive Voice Conversion with Discrete Pitch-Conditioned Flow Matching Model|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10889108)||
 |2025/4|Recursive Feature Learning from Pre-Trained Models for Spoofing Speech Detection|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10888985)||
