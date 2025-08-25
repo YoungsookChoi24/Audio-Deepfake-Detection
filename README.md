@@ -4,6 +4,7 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2025/8|Evaluation framework for deepfake speech detection: a comparative study of state-of-the-art deepfake speech detectors|[link](https://www.researchgate.net/publication/394211445_Evaluation_framework_for_deepfake_speech_detection_a_comparative_study_of_state-of-the-art_deepfake_speech_detectors)||
 |2025/4|Strong Alone, Stronger Together: Synergizing Modality-Binding Foundation Models with Optimal Transport for Non-Verbal Emotion Recognition|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10889257)||
 |2025/8|Perturbed Public Voices (P2V): A Dataset for Robust Audio Deepfake Detection|[link](https://arxiv.org/abs/2508.10949)||
 |2024/12|Coarse-to-Fine Proposal Refinement Framework for Audio Temporal Forgery Detection and Localization|[link](https://arxiv.org/abs/2407.16554)||
