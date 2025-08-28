@@ -100,6 +100,9 @@
 * 2024/10 Robust Deepfake Detection by Addressing Generalization and Trustworthiness Challenges: A Short Survey [link](https://dl.acm.org/doi/abs/10.1145/3689090.3689386)
 * 2023/8 Audio Deepfake Detection: A Survey [link](https://arxiv.org/abs/2308.14970)
 
+### A Survey on Audio-Language Models
+* 2025/1 Audio-Language Models for Audio-Centric Tasks: A survey [link](https://arxiv.org/abs/2501.15177)
+
 # Audio Deepfake Detection Implementation
 ## Datasets
 
