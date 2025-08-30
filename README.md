@@ -4,7 +4,7 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
-|2025/5|ALLM4ADD: Unlocking the Capabilities of Audio Large Language Models for Audio Deepfake Detection|[link](https://arxiv.org/abs/2505.11079)||
+|2025/5|ALLM4ADD: Unlocking the Capabilities of Audio Large Language Models for Audio Deepfake Detection|[link](https://arxiv.org/abs/2505.11079)|[code](https://github.com/ucas-hao/qwen_audio_for_add)|
 |2024/12|The Codecfake Dataset and Countermeasures for the Universally Detection of Deepfake Audio|[link](https://arxiv.org/abs/2405.04880)||
 |2025/8|Evaluation framework for deepfake speech detection: a comparative study of state-of-the-art deepfake speech detectors|[link](https://www.researchgate.net/publication/394211445_Evaluation_framework_for_deepfake_speech_detection_a_comparative_study_of_state-of-the-art_deepfake_speech_detectors)||
 |2025/4|Strong Alone, Stronger Together: Synergizing Modality-Binding Foundation Models with Optimal Transport for Non-Verbal Emotion Recognition|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/document/10889257)||
@@ -93,7 +93,7 @@
 |2025/1/24|Generalizable Audio Deepfake Detection via Latent Space Refinement and Augmentation|[link](https://arxiv.org/abs/2501.14240)||
 |2024/08/27, v4|Does Audio Deepfake Detection Generalize?|[link](https://arxiv.org/abs/2203.16263)||
 
-### Surveys
+### Surveys on Audio Deepfake Detection Models
 * 2025/3 Audio Deepfake Detection: What Has Been Achieved and What Lies Ahead [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC11991371/pdf/sensors-25-01989.pdf)
 * 2025/8 A comprehensive survey with critical analysis for deepfake speech detection [link](https://www.sciencedirect.com/science/article/pii/S1574013725000334?casa_token=pX1nwj9YnMwAAAAA:0zt4Tpc2VDtldrhW1iKGivl6xPMatMqWZ27VfvmlgwliDIqe3F2GcirXECbE1-dR9fyUJKnr)
 * 2024/12 From Audio Deepfake Detection to AI-Generated Music Detection – A Pathway and Overview [link](https://arxiv.org/pdf/2412.00571)
@@ -115,30 +115,35 @@
 * Codecfake Dataset [link](https://github.com/xieyuankun/Codecfake)
 * (Partially Fake Speech Dataset) LlamaPartialSpoof, H.-T. Luong, I. Rimon, H. Permuter, K. A. Lee, and E. S. Chng, "Robust Localization of Partially Fake Speech: Metrics, Models, and Out-of-Domain Evaluation," arXiv preprint arXiv:2507.03468, 2025. [link](https://arxiv.org/abs/2409.14743)
 
-### Spoofing and Speaker Verification
+### Spoofing and Speaker Verification Challenge Datasets
 * ASVspoof2019 [link](https://datashare.ed.ac.uk/handle/10283/3336)
 * ASVspoof2021 LA [link](https://zenodo.org/records/4837263#.YnDIinYzZhE)
 * ASVspoof2021 DF [link](https://zenodo.org/records/4835108#.YnDIb3YzZhE)
 * ASVspoof2021 dataset labels [link](https://www.asvspoof.org/index2021.html)
 * ASVspoof5 [link](https://doi.org/10.5281/zenodo.14498691)
-* CVoice,  X. Li, K. Li, Y. Zheng, C. Yan, X. Ji, and W. Xu, “Safeear: Content privacy-preserving audio deepfake detection,” arXiv:2409.09272, 2024.
-
-### Multimodal Deepfake Detection
-* MLAAD, N. M. Müller, P. Kawa, W. H. Choong, E. Casanova, E. Gölge, T. Müller, P. Syga, P. Sperl, and K. Böttinger, “Mlaad: The multi-language audio anti-spoofing dataset,” arXiv:2401.09512, 2024
+* ADD series, J. Yi et al., “Add 2022: The first audio deepfake detection challenge,” in ICASSP, 2022. and H. Zhang et al., “Add 2023: Audio deepfake detection challenge,” in ICASSP, 2023.
 
 ### Environmental Sound Detection
 * In-The-Wild, Nicolas M Muller, Pavel Czempin, Franziska Dieckmann, Adam Froghyar, and Konstantin Bottinger, “Does audio deepfake detection generalize?,” Interspeech, 2022. [link](https://deepfake-total.com/in_the_wild)
 
-### Pure Audio Deepfake Detection
+### Audio Deepfake Detection
+* SpoofCeleb, a dataset designed for Speech Deepfake Detection (SDD) and Spoofing-robust Automatic Speaker Verification (SASV) [paper](https://arxiv.org/pdf/2409.17285v2)
+* CVoice,  X. Li, K. Li, Y. Zheng, C. Yan, X. Ji, and W. Xu, “Safeear: Content privacy-preserving audio deepfake detection,” arXiv:2409.09272, 2024.
 * WaveFake,  J. Frank and L. Schönherr, “Wavefake: A data set to facilitate audio deepfake detection,” arXiv preprint arXiv:2111.02813, 2021.
 * FakeOrReal, R. Reimao and V. Tzerpos, “For: A dataset for synthetic speech detection,” in 2019 International Conference on Speech Technology and Human-Computer Dialogue (SpeD). IEEE, 2019, pp. 1–10.
 * FakeAVCelebV2, H. Khalid, S. Tariq, M. Kim, and S. S. Woo, “Fakeavceleb: A novel audio-video multimodal deepfake dataset,” arXiv:2108.05080, 2021.
 * ADD series, J. Yi et al., “Add 2022: The first audio deepfake detection challenge,” in ICASSP, 2022. and H. Zhang et al., “Add 2023: Audio deepfake detection challenge,” in ICASSP, 2023.
 * Purdue speech dataset, K. Bhagtani, A. K. S. Yadav, P. Bestagini, and E. J. Delp, “Are Recent Deepfake Speech Generators Detectable?” in ACM Workshop on Information Hiding and Multimedia Security, 2024.
+* R. Reimao and V. Tzerpos, "FoR: A Dataset for Synthetic Speech Detection," in Proceedings of the 10th International Symposium on Digital Forensics and Security (ISDFS), Oct. 2019, pp. 1–10, doi: 10.1109/SPED.2019.8906599. [link](https://bil.eecs.yorku.ca/wp-content/uploads/2020/01/FoR-Dataset_RR_VT_final.pdf)
 
 ### Music
 * WildSVDD, Y. Zang, Y. Zhang, M. Heydari, and Z. Duan, “Singfake: Singing voice deepfake detection,” in ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2024, pp. 12 156–12 160.
 
+### Multilingual Deepfake Detection
+* MLAAD, N. M. Müller, P. Kawa, W. H. Choong, E. Casanova, E. Gölge, T. Müller, P. Syga, P. Sperl, and K. Böttinger, “Mlaad: The multi-language audio anti-spoofing dataset,” arXiv:2401.09512, 2024
+
+### Multimodal Deepfake Detection
+* FakeAVCeleb: A Novel Audio-Video Multimodal Deepfake Dataset [paper](https://arxiv.org/abs/2108.05080)
 
 ## Models
 |Model|Type|Input -> Output|Code|
