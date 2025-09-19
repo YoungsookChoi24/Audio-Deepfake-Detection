@@ -4,6 +4,8 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2024/4|Towards the Development of a Real-Time Deepfake Audio Detection System in
+Communication Platforms|[link](https://arxiv.org/abs/2403.11778)||
 |2025/5|ALLM4ADD: Unlocking the Capabilities of Audio Large Language Models for Audio Deepfake Detection|[link](https://arxiv.org/abs/2505.11079)|[code](https://github.com/ucas-hao/qwen_audio_for_add)|
 |2024/12|The Codecfake Dataset and Countermeasures for the Universally Detection of Deepfake Audio|[link](https://arxiv.org/abs/2405.04880)||
 |2025/8|Evaluation framework for deepfake speech detection: a comparative study of state-of-the-art deepfake speech detectors|[link](https://www.researchgate.net/publication/394211445_Evaluation_framework_for_deepfake_speech_detection_a_comparative_study_of_state-of-the-art_deepfake_speech_detectors)||
@@ -125,6 +127,8 @@
 
 ### Environmental Sound Detection
 * In-The-Wild, Nicolas M Muller, Pavel Czempin, Franziska Dieckmann, Adam Froghyar, and Konstantin Bottinger, “Does audio deepfake detection generalize?,” Interspeech, 2022. [link](https://deepfake-total.com/in_the_wild)
+* sound8k, J. Salamon, C. Jacoby, and J. P. Bello, “A dataset and taxonomy for urban sound research,” in 22nd ACM International Conference on Multimedia (ACM-MM’14), Orlando, FL, USA, Nov. 2014, pp. 1041–
+1044.
 
 ### Audio Deepfake Detection
 * SpoofCeleb, a dataset designed for Speech Deepfake Detection (SDD) and Spoofing-robust Automatic Speaker Verification (SASV) [paper](https://arxiv.org/pdf/2409.17285v2)
