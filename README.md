@@ -4,6 +4,10 @@
 
 |Publication Date|Title|Paper|Code|
 |:---|:---|---|---|
+|2025/9|EMOANTI: AUDIO ANTI-DEEPFAKE WITH REFINED EMOTION-GUIDED REPRESENTATIONS|[link](https://arxiv.org/abs/2509.10781)|[code](https://anonymous.4open.science/r/EmoAnti/README.md)|
+|2025/5|Can Emotion Fool Anti-spoofing?|[link](https://arxiv.org/html/2505.23962v1?utm_source=chatgpt.com)||
+|2022/5|Deepfake Speech Detection Through Emotion Recognition: A Semantic Approach|[link](https://ieeexplore-ieee-org.unr.idm.oclc.org/abstract/document/9747186?casa_token=6jdcDa-j_KQAAAAA:6Lhya10tuMsKoVGTORnGU973aiLoXpJWKNnofnvy3BUaw7BdLHmOFxyAoleYom2DdrN-bQ)||
+|2023/8|REAL-TIME DETECTION OF AI-GENERATED SPEECH FOR DEEPFAKE VOICE CONVERSION|[link](https://arxiv.org/abs/2308.12734)||
 |2024/4|Towards the Development of a Real-Time Deepfake Audio Detection System in Communication Platforms|[link](https://arxiv.org/abs/2403.11778)||
 |2025/5|ALLM4ADD: Unlocking the Capabilities of Audio Large Language Models for Audio Deepfake Detection|[link](https://arxiv.org/abs/2505.11079)|[code](https://github.com/ucas-hao/qwen_audio_for_add)|
 |2024/12|The Codecfake Dataset and Countermeasures for the Universally Detection of Deepfake Audio|[link](https://arxiv.org/abs/2405.04880)||
@@ -147,6 +151,10 @@
 
 ### Multimodal Deepfake Detection
 * FakeAVCeleb: A Novel Audio-Video Multimodal Deepfake Dataset [paper](https://arxiv.org/abs/2108.05080)
+
+### Emotion Fake Audio Detection
+* EmoFake: An Initial Dataset for Emotion Fake Audio Detection [paper](https://aclanthology.org/2024.ccl-1.99/)
+
 
 ## Models
 |Model|Type|Input -> Output|Code|
