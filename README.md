@@ -130,8 +130,7 @@
 
 ### Environmental Sound Detection
 * In-The-Wild, Nicolas M Muller, Pavel Czempin, Franziska Dieckmann, Adam Froghyar, and Konstantin Bottinger, “Does audio deepfake detection generalize?,” Interspeech, 2022. [link](https://deepfake-total.com/in_the_wild)
-* sound8k, J. Salamon, C. Jacoby, and J. P. Bello, “A dataset and taxonomy for urban sound research,” in 22nd ACM International Conference on Multimedia (ACM-MM’14), Orlando, FL, USA, Nov. 2014, pp. 1041–
-1044.
+* sound8k, J. Salamon, C. Jacoby, and J. P. Bello, “A dataset and taxonomy for urban sound research,” in 22nd ACM International Conference on Multimedia (ACM-MM’14), Orlando, FL, USA, Nov. 2014, pp. 1041–1044.
 
 ### Audio Deepfake Detection
 * SpoofCeleb, a dataset designed for Speech Deepfake Detection (SDD) and Spoofing-robust Automatic Speaker Verification (SASV) [paper](https://arxiv.org/pdf/2409.17285v2)
